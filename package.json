@@ -1,0 +1,26 @@
+{
+  "name": "npm-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdamodar369/npm-demo-mosh.git"
+  },
+  "keywords": [
+    "NPM"
+  ],
+  "author": "Damodar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pdamodar369/npm-demo-mosh/issues"
+  },
+  "homepage": "https://github.com/pdamodar369/npm-demo-mosh#readme",
+  "description": "",
+  "dependencies": {
+    "mongoose": "^5.3.14",
+    "underscore": "^1.9.1"
+  }
+}
